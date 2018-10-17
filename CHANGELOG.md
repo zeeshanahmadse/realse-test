@@ -16,7 +16,7 @@ Changelog
 ------------------
 
 New
-~~~
+~~~1
 - Add body css. [Zeeshan Ahmad]
 
 Fix
