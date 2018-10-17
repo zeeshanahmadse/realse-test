@@ -1,28 +1,24 @@
-Changelog
-=========
+
+<a name="0.1.1"></a>
+## [0.1.1](https://github.com/zeeshanahmadse/realse-test/compare/0.0.1...0.1.1) (2018-10-17)
+
+### Feature
+
+* Make changes in heading
+
+### Section
+
+* Added new section
 
 
-0.1.1 (2018-10-17)
-------------------
-- Merge pull request #2 from zeeshanahmadse/html. [Zeeshan Ahmad]
-- Section: Added new section. [Zeeshan Ahmad]
-- Feature: Make changes in heading. [Zeeshan Ahmad]
-- Merge pull request #1 from zeeshanahmadse/css. [Zeeshan Ahmad]
+<a name="0.0.1"></a>
+## 0.0.1 (2018-10-17)
 
-  new: Add body css
+### Fix
 
+* Remove file
 
-0.0.1 (2018-10-17)
-------------------
+### New
 
-New
-~~~1
-- Add body css. [Zeeshan Ahmad]
+* Add body css
 
-Fix
-~~~
-- Remove file. [Zeeshan Ahmad]
-
-Other
-~~~~~
-- Initial commit. [Zeeshan Ahmad]
